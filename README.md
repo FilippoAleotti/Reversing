@@ -1,4 +1,4 @@
-# ReversingTheCycle-refactor
+# ReversingTheCycle
 
 Code for "Reversing the cycle: self-supervised deep stereo through enhanced monocular distillation", ECCV 2020
 

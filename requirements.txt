@@ -1,0 +1,14 @@
+imageio==2.6.1
+matplotlib==3.0.3
+numpy==1.17.4
+opencv-python==4.1.2.30
+Pillow==6.2.1
+scikit-image==0.15.0
+scipy==1.4.1
+tensorboard==2.1.0
+tensorboardX==2.0
+tensorflow==2.1.0
+torch==1.0.1
+torchvision==0.2.2
+tqdm==4.19.9
+pandas==0.24.2

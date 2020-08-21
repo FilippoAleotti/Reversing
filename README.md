@@ -4,27 +4,14 @@ Code for "Reversing the cycle: self-supervised deep stereo through enhanced mono
 
 [Filippo Aleotti](https://filippoaleotti.github.io/website), [Fabio Tosi](https://vision.disi.unibo.it/~ftosi/), [Li Zhang](), [Matteo Poggi](https://mattpoggi.github.io/), [Stefano Mattoccia](http://vision.deis.unibo.it/~smatt/Site/Home.html)
 
-<h2 align="center">Paper</h2>
 <p align="center">
-<a href="https://arxiv.org/pdf/2008.07130.pdf">
-<img src="assets/paper.jpg" alt="Short presentation" width="200">
-</a>
-</p>
+  
+| Paper | Short Video | Long Video |
+|:---: |:---:| :---:|
+| <a href="https://arxiv.org/pdf/2008.07130.pdf">
+<img src="assets/paper.jpg" alt="Short presentation" width="400"> </a> | <a href="https://drive.google.com/file/d/1u4b0XTQSglaBnnHGzNl-6Pmwe18ZZilT/view?usp=sharing"> <img src="assets/frontpage.jpg" alt="Short presentation" width="400"> </a> | <a href="https://drive.google.com/file/d/1V1vrMtEw6uy3TfAW0wXlc-zxxsuIlJY2/view?usp=sharing"> <img src="assets/frontpage.jpg" alt="Long presentation" width="400"> |
 
-<h2 align="center">Short video</h2>
-<p align="center">
-  <a href="https://drive.google.com/file/d/1u4b0XTQSglaBnnHGzNl-6Pmwe18ZZilT/view?usp=sharing">
-  <img src="assets/frontpage.jpg" alt="Short presentation" width="300">
-  </a>
 </p>
-
-<h2 align="center">Long video</h2>
-<p align="center">
-<a href="https://drive.google.com/file/d/1V1vrMtEw6uy3TfAW0wXlc-zxxsuIlJY2/view?usp=sharing">
-  <img src="assets/frontpage.jpg" alt="Long presentation" width="300">
-</a>
-</p>
-
 
 
 ## Citation

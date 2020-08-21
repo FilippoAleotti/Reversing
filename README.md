@@ -8,8 +8,7 @@ Code for "Reversing the cycle: self-supervised deep stereo through enhanced mono
   
 | Paper | Short Video | Long Video |
 |:---: |:---:| :---:|
-| <a href="https://arxiv.org/pdf/2008.07130.pdf">
-<img src="assets/paper.jpg" alt="Short presentation" width="400"> </a> | <a href="https://drive.google.com/file/d/1u4b0XTQSglaBnnHGzNl-6Pmwe18ZZilT/view?usp=sharing"> <img src="assets/frontpage.jpg" alt="Short presentation" width="400"> </a> | <a href="https://drive.google.com/file/d/1V1vrMtEw6uy3TfAW0wXlc-zxxsuIlJY2/view?usp=sharing"> <img src="assets/frontpage.jpg" alt="Long presentation" width="400"> |
+| <a href="https://arxiv.org/pdf/2008.07130.pdf"> <img src="assets/paper.jpg" alt="Short presentation" width="400"> </a> | <a href="https://drive.google.com/file/d/1u4b0XTQSglaBnnHGzNl-6Pmwe18ZZilT/view?usp=sharing"> <img src="assets/frontpage.jpg" alt="Short presentation" width="400"> </a> | <a href="https://drive.google.com/file/d/1V1vrMtEw6uy3TfAW0wXlc-zxxsuIlJY2/view?usp=sharing"> <img src="assets/frontpage.jpg" alt="Long presentation" width="400"> |
 
 </p>
 

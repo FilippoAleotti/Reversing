@@ -1,4 +1,4 @@
-# ReversingTheCycle-refactor
+# Reversing the cycle
 
 Code for "Reversing the cycle: self-supervised deep stereo through enhanced monocular distillation"
 

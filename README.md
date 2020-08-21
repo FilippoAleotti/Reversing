@@ -204,8 +204,9 @@ python main.py --mode train --model psm --epoch 11 --milestone 8 \
 # Test
 
 Pretrained models are available for download:
+
 | Network | KITTI |
-|:--:|:--:|:--:|
+|:--:|:--:|
 | PSMNet | [weights](https://drive.google.com/file/d/1J1_VMQd2KmSJINwt6Ejuhi6Q6F8usOYm/view?usp=sharing) |
 | IResNet | [weights](https://drive.google.com/file/d/1HjkUiHRV9MPcZDVWdWxRHpaIHcPkSRbA/view?usp=sharing) |
 | Stereodepth | [weights](https://drive.google.com/file/d/1TsHrHFLXK-lDmINdZXOiOM0TCiNEAA4E/view?usp=sharing) |

@@ -267,7 +267,7 @@ python test/middlebury.py --prediction stereo/results/16bit/$model/MIDDLEBURY --
 ```
 
 where:
-* `gt`: path to MiddleburyTrainingQ folder (the scripts looks for `pfm` ground-truth)
+* `gt`: path to MiddleburyTrainingQ folder (the script looks for `pfm` ground-truth)
 
 # ETH3D
 You can generate and test artifacts on ETH3D running the command:
@@ -288,7 +288,7 @@ python test/eth.py --prediction stereo/results/16bit/$model/ETH3D --gt $gt
 ```
 
 where:
-* `gt`: path to ETH3D/training folder (the scripts looks for `pfm` ground-truth)
+* `gt`: path to ETH3D/training folder (the script looks for `pfm` ground-truth)
 
 # Single inference
 You can run the network on a single stereo pair, or eventually on a list of pairs, using the following script:

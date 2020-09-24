@@ -57,6 +57,15 @@ To replicate the pipeline, you have to:
 You can create the initial stereo labels using the [code](https://github.com/fabiotosi92/Unsupervised-Confidence-Measures) of the paper 
 "Learning confidence measures in the wild", by F. Tosi, M. Poggi, A. Tonioni, L. Di Stefano and S. Mattoccia.
 
+Once compiled, you can generate stereo labels for a given pair with the command:
+
+```
+./build/bmvc2017 -l [left_image] -r [right_image] -o [output_path] \
+                 -p da ds lrc apkr dsm uc med \
+                 -n da ds lrc apkr uc \ 
+                 -t 0.4 -b 1 -d 192
+```
+
 ### Train the Monocular Completion Network
 We used [MonoResMatch](https://arxiv.org/pdf/1904.04144.pdf) as monocular network, changing the network to accept also sparse stereo points as input.
 Original code of the network can be found [here](https://github.com/fabiotosi92/monoResMatch-Tensorflow).

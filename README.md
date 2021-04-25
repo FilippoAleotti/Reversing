@@ -132,7 +132,7 @@ where:
 * `width`: width of resized image
 * `height`: height of resized image
 * `number_hypothesis`: number of multiple inferences. If `-1`, do not apply the consensus mechanism, and save the single prediction of the network
-* `input_points`: percentage of traditional stereo points given as input to the network. Default is `0.95`, meaning that the network takes 5% of points as input
+* `input_points`: rules the percentage of traditional stereo points given as input to the network. Default is `0.95`, meaning that the network takes 5% of points as input
 
 In this case the model takes few random stereo points as input and it does not apply the consensus mechanism over multiple inferences.
 To test the MCN with consensus mechanism, apply multiple inferences over the testing split and change the testing code, masking out not only ground-truth invalid points but also invalid points in predictions.

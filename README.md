@@ -47,12 +47,12 @@ pip install -r requirements
 
 # Train
 To replicate the pipeline, you have to:
-1. generate stereo labels with traditional algorithms
+1. generate stereo labels with a Traditional Stereo Methodology
 2. train the Monocular Completion Network (MCN) using such labels
 3. Generate the proxy labels for the stereo network using the Consensus Mechanism
 4. Train the stereo network on the proxy labels created in (3)
 
-### Generate stereo labels from traditional algorithms
+### Generate stereo labels with a Traditional Stereo Methodology
 
 To create the initial stereo labels for training MCN, we used the [code](https://github.com/fabiotosi92/Unsupervised-Confidence-Measures) of the paper 
 "Learning confidence measures in the wild", by F. Tosi, M. Poggi, A. Tonioni, L. Di Stefano and S. Mattoccia (BM/W).

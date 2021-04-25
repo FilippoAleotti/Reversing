@@ -55,7 +55,7 @@ To replicate the pipeline, you have to:
 ### Generate stereo labels from traditional algorithms
 
 To create the initial stereo labels for training MCN, we used the [code](https://github.com/fabiotosi92/Unsupervised-Confidence-Measures) of the paper 
-"Learning confidence measures in the wild", by F. Tosi, M. Poggi, A. Tonioni, L. Di Stefano and S. Mattoccia.
+"Learning confidence measures in the wild", by F. Tosi, M. Poggi, A. Tonioni, L. Di Stefano and S. Mattoccia (BM/W).
 
 Once compiled, you can generate stereo labels for a given pair with the command:
 
@@ -126,7 +126,7 @@ python test/kitti.py --prediction $output_path --gt $path_to_KITTI/2015/training
 where:
 * `output_path`: where the filtered proxies will be saved
 * `data_path_image`: path to RGB dataset
-* `path_proxy`: path to traditional stereo proxies. You can use WILD again or a different method (e.g., SGM)
+* `path_proxy`: path to traditional stereo proxies. You can use BM/W again or a different method (e.g., SGM/L).
 * `filenames_file`: path to dataset filename file
 * `checkpoint_path`: path to pre-trained MCN
 * `width`: width of resized image

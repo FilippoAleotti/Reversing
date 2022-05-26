@@ -7,7 +7,7 @@ scikit-image==0.15.0
 scipy==1.4.1
 tensorboard==2.1.0
 tensorboardX==2.0
-tensorflow==2.1.0
+tensorflow==2.7.2
 torch==1.0.1
 torchvision==0.2.2
 tqdm==4.19.9
